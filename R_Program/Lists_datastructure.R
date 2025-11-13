@@ -67,7 +67,7 @@ d)To add an item to the end of the list, use the append() function.
 
 thislist <- list("apple","banana","cherry")
 append(thislist,"orange")
-
+   
 
 e)To add an item to the right of a specified index, add "after=index number" in the append() function 
 

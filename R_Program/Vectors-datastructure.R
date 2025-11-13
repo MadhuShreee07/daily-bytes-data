@@ -90,7 +90,7 @@ fruits <- c("apple", "banana", "cherry")
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ** Replacing one value 
 fruits <- c("banana","apple","orange")"
-fruits[1] <-"pear"		                              “pear” “apple” “orange”
+fruits[1] <-"pear"		                              #“pear” “apple” “orange”
 fruits
 
 **Vectorized conditional replacement - replace elements in vectors based on conditions.

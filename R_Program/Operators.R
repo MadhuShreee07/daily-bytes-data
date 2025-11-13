@@ -16,7 +16,7 @@
 #R uses the print() function to display the variables
 
 x<- 10
-x    #auto printing
+x            #auto printing
 print(x)     #explicit printing
 
 x<-10:30
